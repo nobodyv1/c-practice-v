@@ -8,7 +8,7 @@
 
 🚀 Welcome to Practice Coding! 🚀
 
-This repository is a collection of exercises and projects designed to help you improve your coding skills in [insert language name here]. Whether you're a beginner or an experienced developer, this repository provides a space for you to practice and learn.
+This repository is a collection of exercises and projects designed to help you improve your coding skills in any language. Whether you're a beginner or an experienced developer, this repository provides a space for you to practice and learn.
 
 **Description**
 -------------
