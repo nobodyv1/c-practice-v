@@ -8,12 +8,12 @@
 
 🚀 Welcome to Practice Coding! 🚀
 
-This repository is a collection of exercises and projects designed to help you improve your coding skills in [insert language name here]. Whether you're a beginner or an experienced developer, this repository is meant to provide a space for you to practice and learn.
+This repository is a collection of exercises and projects designed to help you improve your coding skills in [insert language name here]. Whether you're a beginner or an experienced developer, this repository provides a space for you to practice and learn.
 
 **Description**
 -------------
 
-Practice Coding is a project designed to help you improve your understanding of [insert language name here]. The repository contains a variety of exercises and projects that cover topics such as [list topics, e.g. variables, control structures, functions, etc.].
+Practice Coding is a project designed to help you improve your understanding of cpp, javascript, etc. The repository contains a variety of exercises and projects that cover topics such as  variables, control structures, functions, etc...
 
 **Features**
 ------------
